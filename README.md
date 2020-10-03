@@ -10,16 +10,12 @@ A simple shopping cart App using React.
 ### Requirements
  - [Node](https://nodejs.org/en/download/current/)
 
-```sh
 # Install the dependencies needed
 npm install
 
 # Start the app
-npm start
 In the project directory, you can run:
-
-### `npm start`
-```
+### `npm start
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
