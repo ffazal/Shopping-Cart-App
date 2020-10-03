@@ -2,6 +2,11 @@
 
 A simple shopping cart App using React.
 
+## Current Features and UI
+
+<img src="images/Image1.PNG"> <img src="images/Image2.PNG">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
