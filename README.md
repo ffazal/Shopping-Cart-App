@@ -2,9 +2,9 @@
 
 A simple shopping cart App using React.
 
-# Current Features and UI
+## Current Features and UI
 
-<img src="images/Image1.PNG" width="100" height="200">
+<img src="images/Image1.PNG" width="200" height="400">
 
 
 ## Available Scripts
