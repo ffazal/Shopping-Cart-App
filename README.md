@@ -1,6 +1,6 @@
 # Shopping-Cart-App
 
-A simple shopping cart App to practice React.
+A simple shopping cart App using React.
 
 ## Available Scripts
 
